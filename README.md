@@ -1,0 +1,1 @@
+# CrevasseSeg-a-label-efficient-uav-crevasse-segmentation-framework
